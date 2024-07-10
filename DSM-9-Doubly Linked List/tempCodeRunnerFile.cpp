@@ -1,0 +1,2 @@
+
+        delete_head(head);
